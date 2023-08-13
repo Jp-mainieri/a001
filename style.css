@@ -39,7 +39,7 @@ main {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    box-shadow: 40px 40px 50px rgba(0, 0, 0, 0.202);
+    box-shadow: 30px 40px 50px rgba(0, 0, 0, 0.294);
     width: 700px;
     border-radius: 20px;
 }
