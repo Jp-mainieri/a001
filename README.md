@@ -1,6 +1,8 @@
 # a001
  Results Summary Component - Frontendmentor.io activity
 
-  only Html and Css was used in this project
+  Only Html and Css was used in this project
+
+  Link of the project -- https://jp-mainieri.github.io/a001/
 
 
