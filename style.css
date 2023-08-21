@@ -114,10 +114,12 @@ aside p {
     text-align: center;
     padding: 15px;
     margin: 70px 0px 0px 0px;
+    transition: 0.75s;
 }
 
 #continue:hover {
     background-image: linear-gradient(to bottom, var(--gradient1));
+    
 }
 
 
